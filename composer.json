@@ -1,0 +1,14 @@
+{
+    "name": "styleex/skpromalp",
+    "authors": [
+        {
+            "name": "StyleEX",
+            "email": "styleex@xakep.ru"
+        }
+    ],
+    "require": {
+        "silex/silex": "~1.2",
+        "twig/twig": "1.*",
+        "symfony/twig-bridge": "~2.3"
+    }
+}
